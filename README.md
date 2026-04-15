@@ -5,8 +5,15 @@
  **Analisar os principais fatores que influenciam o cancelamento de clientes.**
 <br>
 
+ 📊 KPIs analisados
+- Taxa de churn
+- Número de chamadas ao suporte
+- Atraso no pagamento
+- Valor total gasto
+
  
-Os principais fatores associados ao churn foram:
+<br>
+<br>
 
 - Maior número de interações com o suporte
 
